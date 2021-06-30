@@ -1,0 +1,23 @@
+{
+  "name": "mc-compass-texture-merger",
+  "version": "1.0.0",
+  "description": "Makes creating compass textures easier",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hatchibombotar",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hatchibombotar/mc-compass-texture-merger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hatchibombotar/mc-compass-texture-merger/issues"
+  },
+  "homepage": "https://github.com/Hatchibombotar/mc-compass-texture-merger#readme"
+}
