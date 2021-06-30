@@ -4,3 +4,5 @@ Makes creating compass textures easier. Created with [nodejs](https://nodejs.org
 Install with `npm install`
 
 Run with `node program.js`
+
+For use with Minecraft: Java
